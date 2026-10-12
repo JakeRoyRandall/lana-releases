@@ -14,7 +14,7 @@ Four files: two apps, each as the submitted build and as the latest build.
 - **The hackathon submission** is the first row: the builds handed in to the Solana Mobile Clock In hackathon (closes 4:59 pm PT, 12 October 2026). Those files are frozen at submission and never change afterwards.
 - **Latest** is the second row. These files are replaced as new features land.
 - **Lana** (`com.saylana.app`) is the real app. You sign in, talk to her and add money. Real-money swaps and sends are closed in these builds.
-- **Lana Demo** (`com.saylana.demo`) is a separate app with pretend money. It needs no account, no sign-in and no wallet, and every balance and transaction in it is simulated. Voice and live swap quotes are not connected in the Demo: tap **DEMO · fake funds**, then **Type instead** or one of the preset flows.
+- **Lana Demo** (`com.saylana.demo`) is a separate app with pretend money. It needs no account, no sign-in and no wallet, and every balance and transaction in it is simulated. Its voice and live swap quotes come from a hosted service that goes live with the judging period. Builds made before it, and any moment it is down, have neither: tap **DEMO · fake funds**, then **Type instead** or one of the preset flows.
 
 ## Install
 
